@@ -7,3 +7,7 @@ Check out the sequence below to see how I approached the process!
 > ![Original Image](https://www.cdc.gov/drugoverdose/images/epidemic/2018-3-Wave-Lines-Mortality.png)
 > Source: https://www.cdc.gov/drugoverdose/epidemic/index.html
 
+I believe that the 3 lines representing 3 major categories of opioids do a great job at communicating the rise of certain types of opioid related overdoses. However, relevant information to the opioid epidemic could be more efficiently commmunicated with a few relativley simple redesigns. I chose to focus my redesigns on enforcing these two aspects of the chart: 
+1. The severity of the Opioid Epidemic.
+2. Enforcing the "waves" of relevant classes of Opioids
+
