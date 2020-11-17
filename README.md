@@ -4,4 +4,6 @@ For this assignment I found a chart that I thought could be redesigned to more e
 Check out the sequence below to see how I approached the process!
 
 ### The Original Image
-![Original Image](https://www.cdc.gov/drugoverdose/images/epidemic/2018-3-Wave-Lines-Mortality.png)
+> ![Original Image](https://www.cdc.gov/drugoverdose/images/epidemic/2018-3-Wave-Lines-Mortality.png)
+> Source: https://www.cdc.gov/drugoverdose/epidemic/index.html
+
