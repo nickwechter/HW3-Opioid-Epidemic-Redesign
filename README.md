@@ -11,3 +11,13 @@ I believe that the 3 lines representing 3 major categories of opioids do a great
 1. The severity of the Opioid Epidemic.
 2. Enforcing the "waves" of relevant classes of Opioids
 
+### WireFrame Redesigns
+
+##### Aggregate Deaths Stacked Line Chart
+> <div class="flourish-embed flourish-chart" data-src="visualisation/4381883"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### Proportions of Opioid Categories
+> <div class="flourish-embed flourish-chart" data-src="visualisation/4382543"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### Binned Proportions of Opioid Categories
+> <div class="flourish-embed flourish-chart" data-src="visualisation/4382008"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
