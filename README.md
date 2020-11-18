@@ -21,3 +21,10 @@ I believe that the 3 lines representing 3 major categories of opioids do a great
 
 #### Binned Proportions of Opioid Categories
 > <div class="flourish-embed flourish-chart" data-src="visualisation/4382008"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Process
+As the wireframes showed, I spent a good amount of time experimenting with different portrayals of the data, and seeing how different formats extentuated different aspects of the opioid epidemic. One thing that was important to the impact of the message, to me, was changing from the deaths per 100,000 metric used in the original to just using the pure amounts of deaths. I also experimented with displaying the aggregate deaths (in which the Y axis represented the total amount of overdose deaths from previous years), but I thought that this metric made it harder to read into the different "waves" of categories of opioids. I also experimented with binning the different waves of the opioid epidemic (as shown in the "Binned Proportions..." wireframe), but the different time scales of the waves made it hard to maintain the continuous, increasing, curves that make the graphic so powerful. 
+
+### Final Redesign
+<div class="flourish-embed flourish-chart" data-src="visualisation/4369492"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
