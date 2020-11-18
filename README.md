@@ -28,8 +28,10 @@ As the wireframes showed, I spent a good amount of time experimenting with diffe
 ### Final Redesign
 <div class="flourish-embed flourish-chart" data-src="visualisation/4369492"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Back To The Homepage
-https://nickwechter.github.io/Wecht-DataViz/
+
 For the final redesign, I decided to use a stacked line chart displaying the overdose deaths associated with the three categories of opioids. Stacking the lines made it harder to discern the dominant trend occuring during each wave; to address this I colored each segment of the chart the same color as the relevant opioids line. My goal was that this would naturally draw the viewers attention to the appropriate curve and extentuate each "waves" new pattern. 
 
 Because I thought that the sheer volume of the running total of opioid related overdoses was so powerful, I created a hidden data collumn storing this information, so that viewers could have access to it as the interacted with the chart. I also included the total overdose deaths on the right of the chart with the line labels. My decision to use a stacked line chart instead of 3 independent lines was to also strengthen the message of how many lives are effected by this epidemic. I thought that communicating not only how each line spiked independently, but also how the lines aggregated was important to include. 
+
+### Back To The Homepage
+https://nickwechter.github.io/Wecht-DataViz/
